@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <p align="center">
   <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/chilrr/cheerup@main/.github/resources/images/heroo.webp" type="image/webp">
@@ -8,7 +14,13 @@
   </picture>
 </p>
 
-<h1 align="center" style="margin: 14px 0 6px;">必备工具与福利聚合</h1>
+
+<h1 align="center" style="margin: 14px 0 6px;">⚠️本页焕新升级，暂停更新中……</p>
+<h1 align="center" style="margin: 14px 0 6px;">
+  <a href="https://edgeronin.com" target="_blank" style="text-decoration: none; color: inherit;">👉🏻点击访问全新站点：edgeronin.com</a>
+</h1>
+
+
 
 <p align="center">福利返佣 · 跨境工具 · 投资交易 · 消费订阅 · 效率AI</p>
 
@@ -44,7 +56,6 @@
       <td width="32%" valign="top">
         <h3>加密世界</h3>
         <ul>
-          <li><a href="https://app.binpay.cc/pages/passport/invitation?r=101271">Binpay</a></li>
           <li><a href="https://www.thpay.org/?channelCode=3704699">THpay</a></li>
           <li><a href="/articles/虚拟卡怎么选？怎么都总是跑路？【持续更新】.md">虚拟卡</a></li>
           <li><a href="/articles/币安是什么？苹果机主怎么办？.md">币安</a></li>
@@ -109,7 +120,6 @@
 - #### 💎 [**Wildcard：美区支付一网打尽  AI订阅支付专家**](https://2233.ai/i/LANGKE)👈🏻   减1刀  [订阅服务已恢复，卡片业务修复中]  
 - #### 💵 [**THPay：加密实体 U 卡取现金  轻KYC出金神器**](https://www.thpay.org/?channelCode=3704699)         👈🏻 最高减50
   
-- #### 🕋 [**Binpay：多平台可用美元加密卡  可绑美团京东消费**](https://app.binpay.cc/pages/passport/invitation?r=101271)        👈🏻 减8刀
   
 - #### 🥗 [**Pokepay：便宜好用港币加密卡 5U带走可升级实体**](https://app.pokepay.cc/pages/invitation/regist?r=211098)     👈🏻 5刀开卡
   
@@ -172,7 +182,7 @@
         </ul>
       </td>
       <td width="30%" valign="top">
-          <a href="https://app.binpay.cc/pages/passport/invitation?r=101271">Binpay注册</a>
+          <a href="https://app.binpay.cc/pages/passport/invitation?r=101271"></a>
       </td>
     </tr>
     <tr>
